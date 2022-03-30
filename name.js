@@ -1,7 +1,7 @@
 const names = () => {
     return 'this '
 }
-names();
+names(); /// output of the name
  const address = () => {
      return 'this is'
- }
+ } // return address with name
